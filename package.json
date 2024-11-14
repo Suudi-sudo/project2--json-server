@@ -1,0 +1,26 @@
+{
+  "name": "project2--json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suudi-sudo/project2--json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suudi-sudo/project2--json-server/issues"
+  },
+  "homepage": "https://github.com/Suudi-sudo/project2--json-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
